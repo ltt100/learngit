@@ -1,1 +1,1 @@
-Git is not a version control system.
+Git is of course not a version control system.
